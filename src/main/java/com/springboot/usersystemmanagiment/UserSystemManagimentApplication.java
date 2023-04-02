@@ -19,10 +19,5 @@ public class UserSystemManagimentApplication implements CommandLineRunner {
 	private UserRepository userRepository;
 	@Override
 	public void run(String... args) throws Exception {
-//		User user1 = new User(181161L,"nicolae","nic","nic@gmail.com");
-//		userRepository.save(user1);
-//		User user2 = new User(18116121L,"nicolae","genfe","nic@gmail.com");
-//		userRepository.save(user2);
-
 	}
 }
